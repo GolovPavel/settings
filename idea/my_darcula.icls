@@ -1,0 +1,26 @@
+<scheme name="Darcula my" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-07-23T10:45:25</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.3.0.0</property>
+    <property name="modified">2018-07-23T10:45:35</property>
+    <property name="originalScheme">Darcula my</property>
+  </metaInfo>
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="34c3c6" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="34c3c6" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="94c64d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
