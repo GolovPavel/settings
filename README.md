@@ -1,3 +1,3 @@
 # settings
 
-My setting files and scripts for software developing.
+My setting files and scripts for software development.
