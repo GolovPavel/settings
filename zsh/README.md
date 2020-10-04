@@ -2,7 +2,7 @@
 
 ## oh-my-zsh
 
-Framework for configure zsh shell.
+Framework for configure zsh.
 
 https://github.com/ohmyzsh/ohmyzsh 
 
